@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in RealExample should show this component 1`] = `
+<div
+  className="p-5"
+>
+  <h1>
+    ReactExampleRef
+  </h1>
+  <hr />
+  <button
+    className="btn btn-primary mt-4"
+    onClick={[Function]}
+  >
+    Show/Hide
+  </button>
+</div>
+`;
+
+exports[`Test in RealExample should show this component MultipleCustomHooks 1`] = `
+<div
+  className="p-5"
+>
+  <h1>
+    ReactExampleRef
+  </h1>
+  <hr />
+  <button
+    className="btn btn-primary mt-4"
+    onClick={[Function]}
+  >
+    Show/Hide
+  </button>
+</div>
+`;

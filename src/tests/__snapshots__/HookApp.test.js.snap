@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testint in HookApp component should show Hello wordl 1`] = `
+<div>
+  <h1>
+    Hellow Word!
+  </h1>
+</div>
+`;
